@@ -18,7 +18,7 @@
 <p align="center">
 	<p align="center">
 	<a href="https://skillicons.dev">
-    		<img src="https://skillicons.dev/icons?i=py,streamlit,sql,c,html,css,androidstudio,powerbi,excel,opengl,vscode&perline=10" />
+    		<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,css,firebase,git,html,mysql,py,vscode&perline=10" />
   	</a> 
 </p>
 
