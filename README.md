@@ -3,7 +3,7 @@
 
 - I’m currently Studing on [Yenepoya Institute of Technology](https://www.yit.edu.in/)
 
-- Currently doing my best to be a **Data Analyst**
+- Currently doing my best to be a **Data Analyst And UI Design**
 
 - I'm also into **Machine Learning**
 
