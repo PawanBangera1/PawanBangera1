@@ -3,9 +3,9 @@
 
 - I’m currently Studing on [Yenepoya Institute of Technology](https://www.yit.edu.in/)
 
-- Currently doing my best to be a **Data Analyst And UI Design**
+- Currently doing my best to be a **Software Development**
 
-- I'm also into **Machine Learning**
+- I'm also into **UI/UX Design and Data Analytics**
 
 - Looking to collaborate on **Opensource projects**
 
