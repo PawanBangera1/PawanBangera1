@@ -5,9 +5,9 @@
 
 - Currently doing my best to be a **Software Development**
 
-- 💻 My technical skills include C++, C, Java, Python, HTML5, CSS3, Javascript, SQL, Git, Github, VS Code, Linux, Shell, Bash, Valgrind, Gerrit, API, Object-Oriented Analysis and Design, Data Structures and Algorithms
-- 
-- 🤝 I possess leadership skills such as Communication, Collaboration, Critical Thinking, Problem-Solving, Teamwork, and Adaptability
+- My technical skills include C, Java, Python, HTML, CSS, Javascript, SQL, Git, Github, VS Code, Linux, API, Object-Oriented Analysis and Design, Data Structures and Algorithms
+
+- I possess leadership skills such as Communication, Collaboration, Critical Thinking, Problem-Solving, Teamwork, and Adaptability
 
 - Looking to collaborate on **Opensource projects**
 
@@ -25,16 +25,7 @@
   	
 </p>
 
-
-
-
-
-- 💻 My technical skills include C++, C, Java, Python, HTML5, CSS3, Javascript, SQL, Git, Github, VS Code, Linux, Shell, Bash, Valgrind, Gerrit, API, Object-Oriented Analysis and Design, Data Structures and Algorithms
-- 🤝 I possess leadership skills such as Communication, Collaboration, Critical Thinking, Problem-Solving, Teamwork, and Adaptability
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=xvisierra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
