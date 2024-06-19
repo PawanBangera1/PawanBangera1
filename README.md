@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pawan Bangera</h1>
+<h1 align="center">👋 Hi, I'm Pawan Bangera</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - I’m currently Studing on [Yenepoya Institute of Technology](https://www.yit.edu.in/)
