@@ -19,9 +19,18 @@
 
 - ⚡ Fun fact **I love play Chess**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/k-pawan-bangera-3865441ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pawanbangeraa/">
+  <img align="left" alt="pawan" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 	<p align="center">
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,c,css,docker,express,firebase,figma,git,github,go,html,js,mongodb,mysql,nodejs,postgres,py,tailwind,vscode&perline=6" />
