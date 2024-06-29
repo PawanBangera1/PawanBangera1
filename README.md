@@ -29,9 +29,9 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<p align="center">
+	<p align="left">
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,c,css,docker,express,firebase,figma,git,github,go,html,js,mongodb,mysql,nodejs,postgres,py,tailwind,vscode&perline=6" />
 		
