@@ -1,20 +1,23 @@
 ![banner (1)](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
+
 <h1 align="center">👋 Hi, I'm Pawan Bangera</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A computer science enthusiast from India who loves creating and exploring new things.</h3>
+<h3 align="center">Pursuing my B.E from  Yenepoya Institute of Technology, Mangalore in Computer Science and Engineering</h3>
 
-- I’m currently Studing on [Yenepoya Institute of Technology](https://www.yit.edu.in/)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Currently doing my best to be a **Software Development**
 
-- My technical skills include C, Java, Python, HTML, CSS, Javascript, SQL, Git, Github, VS Code, Linux, API, Object-Oriented Analysis and Design, Data Structures and Algorithms
+- 👦 Pronouns: He/His
 
-- I possess leadership skills such as Communication, Collaboration, Critical Thinking, Problem-Solving, Teamwork, and Adaptability
+- 🔭 I’m currently working on **Web development Projects**
 
-- Looking to collaborate on **Opensource projects**
+- 🌱 Fields of Interest **Software Developmen**
 
-- My portfolio: [Click here](https://bangera.vercel.app/)
+- 📫 How to reach me **pawanbangera142@gmail.com**
 
-- Ask me about **Data Analyst, Machine Learning & may be Python**
+- 📄 Click [here](https://bangera.vercel.app/) Know about my experiences 
+
+- ⚡ Fun fact **I love play Chess**
 
 
 <h3 align="center">Languages and Tools:</h3>
