@@ -22,20 +22,24 @@
 ### 🌐 Connect with me:
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/k-pawan-bangera-3865441ba/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-  
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Pawan_Bangera/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/leetcode.svg" alt="LeetCode" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="30" width="30"/>
   </a>
 
+  <!-- GitHub -->
   <a href="https://github.com/PawanBangera1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.svg" alt="GitHub" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30"/>
   </a>
 
+  <!-- Portfolio -->
   <a href="https://pawanbangera7.vercel.app/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/portfolio.svg" alt="Portfolio" height="30" width="30" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-portfolio-web-design-flat-flat-juicy-fish.png" alt="Portfolio" height="30" width="30"/>
   </a>
 </p>
 
