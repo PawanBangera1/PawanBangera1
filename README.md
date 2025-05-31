@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Web development Projects**
 
-- 🌱 Fields of Interest **Software Developmen**
+- 🌱 Fields of Interest **Software Development**
 
 - 📫 How to reach me **pawanbangera142@gmail.com**
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/k-pawan-bangera-3865441ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pawanbangeraa/">
-  <img align="left" alt="pawan" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://leetcode.com/u/Pawan_Bangera/" target="_blank">
+  <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/leetcode.svg" width="30" />
 </a>
 
 </p>
