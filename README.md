@@ -37,19 +37,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30"/>
   </a>
 
-  <!-- Portfolio -->
-  <a href="https://pawanbangera7.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-portfolio-web-design-flat-flat-juicy-fish.png" alt="Portfolio" height="30" width="30"/>
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,c,css,docker,express,firebase,figma,git,github,go,html,js,mongodb,mysql,nodejs,postgres,py,tailwind,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,c,css,docker,express,figma,git,github,html,js,mongodb,mysql,nodejs,postgres,py,tailwind,vscode&perline=9" />
   </a>
 </p>
 
