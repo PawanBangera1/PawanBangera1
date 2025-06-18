@@ -14,7 +14,6 @@
 - 🔭 I’m currently working on **Web development Projects**  
 - 🌱 Fields of Interest: **Software Development**  
 - 📫 Reach me at: **pawanbangera142@gmail.com**  
-- 📄 [Click here](https://pawanbangera7.vercel.app/) to know about my experiences  
 - ⚡ Fun fact: **I love to play Chess**
 
 ---
