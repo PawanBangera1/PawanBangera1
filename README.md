@@ -29,7 +29,7 @@ const knetic0 = {
     code: ["Javascript", "Python", "Typescript", "Java", "React", "Vue"],
     askMeAbout: ["web dev", "tech", "ai"],
     technologies: {
-frontEnd: {
+        frontEnd: {
             js: ["Vue", "React", "Next"]
         },
         backEnd: {
