@@ -1,52 +1,52 @@
-![banner](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
+<h2><img src="https://img.icons8.com/color/512/golang.png" width="30"/>      Hi! I'm Pawan Bangera!</h2>
 
-<h1 align="center">👋 Hi, I'm Pawan Bangera</h1>
-<h3 align="center">A computer science enthusiast from India who loves creating and exploring new things.</h3>
-<h3 align="center">Pursuing my B.E from Yenepoya Institute of Technology, Mangalore in Computer Science and Engineering</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter follow badge" />
-  </a>
-</p>
+<p><em>Frontend Developer
+</a>
+</em></p>
 
-- 👦 Pronouns: He/His  
-- 🔭 I’m currently working on **Web development Projects**  
-- 🌱 Fields of Interest: **Software Development**  
-- 📫 Reach me at: **pawanbangera142@gmail.com**  
-- ⚡ Fun fact: **I love to play Chess**
 
----
+[![Twitter Follow](https://img.shields.io/twitter/follow/dotceng?label=Follow)](https://twitter.com/intent/follow?screen_name=dotceng)
+[![Linkedin: Mehmet Solak](https://img.shields.io/badge/-MehmetSolak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/mehmet-solak-250216224/)
+![GitHub followers](https://img.shields.io/github/followers/knetic0?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knetic0.github.io/)](https://knetic0.github.io/)
+![](https://komarev.com/ghpvc/?username=knetic0&style=flat-square)
 
-### 🌐 Connect with me:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech I Use
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/k-pawan-bangera-3865441ba/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="35" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" width="35" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="35" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="35" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png?size=48" width="35" />
+    <img src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png?size=48" width="35" />
+    <img src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png?size=48" width="35" />
+    <img src="https://avatars.githubusercontent.com/u/22138497?s=48&v=4" width="35" />
+</div>
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Pawan_Bangera/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="30" width="30"/>
-  </a>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-  <!-- GitHub -->
-  <a href="https://github.com/PawanBangera1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30"/>
-  </a>
+```javascript
+const knetic0 = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Typescript", "Java", "React", "Vue"],
+    askMeAbout: ["web dev", "tech", "ai"],
+    technologies: {
+frontEnd: {
+            js: ["Vue", "React", "Next"]
+        },
+        backEnd: {
+            js: ["node", "Express"]
+        },
+        databases: ["postgresql", "mysql", "mongodb"],
+    },
+    architecture: ["Progressive web applications", "N-Tier Architecture"],
+};
+```
 
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,c,css,docker,express,figma,git,github,html,js,mongodb,mysql,nodejs,postgres,py,tailwind,vscode&perline=9" />
-  </a>
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 
