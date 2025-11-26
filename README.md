@@ -6,6 +6,12 @@
 </a>
 </em></p>
 
+[![Linkedin: Pawan Bangera](https://img.shields.io/badge/-Pawan%20Bangera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-pawan-bangera-3865441ba)](https://www.linkedin.com/in/k-pawan-bangera-3865441ba)
+[![GitHub followers](https://img.shields.io/github/followers/PawanBangera1?label=Follow&style=social)](https://github.com/PawanBangera1)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://pawanbangera.vercel.app/)](https://pawanbangera.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/u/Pawan_Bangera/)](https://leetcode.com/u/Pawan_Bangera/)
+![](https://komarev.com/ghpvc/?username=PawanBangera1&style=flat-square)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech I Use
 
