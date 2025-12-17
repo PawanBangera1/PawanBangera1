@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=PawanBangera1&style=flat-square)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech I Use
+### Tech I Use
 
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35"/>
@@ -26,7 +26,7 @@
     <img src="https://avatars.githubusercontent.com/u/22138497?s=48&v=4" width="35" />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const knetic0 = {
